@@ -3,6 +3,13 @@ Filled out form SSA 454 for my year 2027-ish Continuing Disability Review for So
 
 _______________________ 
 
+
+SSA-454 Additional Information for Questions
+
+Key
+Questions from original form SSA-454 in bold.
+Answers to questions in form SSA-454 not in bold.
+
 Form SSA-454-BK (06-2023) UF
 Discontinue Prior Editions
 Social Security Administration
@@ -56,6 +63,7 @@ CONTINUING DISABILITY REVIEW REPORT
 For SSA Use Only - Do not write in this box.
 Date of your last medical disability decision:
 
+
 SECTION 1 - INFORMATION ABOUT YOU
 When a question refers to "you" or "your" it refers to the person receiving disability benefits. If you are completing this report for someone else, please provide information about them.
 
@@ -108,7 +116,9 @@ CITY STATE/Province ZIP/Postal Code COUNTRY (if not USA)
 
 1.F. DAYTIME PHONE NUMBER(S) where we can call to speak with you, or leave a message, if needed. (Include area code, or IDD and country code if outside the USA or Canada.)
 
-Primary: 954-559-8884
+Primary: 954-559-8884 
+
+Note: I may be asleep if and when you call during the day, so please leave a voicemail. I also take text messages and email.
 
 Secondary: (If available)
 
@@ -132,6 +142,8 @@ If you cannot speak and understand English, we will provide an interpreter free 
 
 YES, but I struggle to focus and keep my place while reading. Before I was disabled, I read about 60 pages an hour and hundreds of pages in a sitting. After I was disabled, I read about 6–9 pages an hour and less than 20 pages in a sitting. Reading is very hard for me nowadays. 
 
+Also, yes, you may have noticed that I am able to write. The functions of the brain and very fine-grained. Just because a person is able to do one thing with their brain [such as write] doesn't necessarily mean they are able to do another thing with their brain [such as read through a book]. My ability to read is much, much, much worse than my ability to write, as odd as that sounds. There is something off with my brain.
+
 1.J. Can you write more than your name in English?
 [✅ ] YES
 [ ] NO
@@ -151,8 +163,10 @@ Mother
 Form SSA-454-BK (06-2023) UF
 Page 4 of 12
 
-2.C. MAILING ADDRESS (Street or PO Box) Include apartment number if applicable.
+2.C. MAILING ADDRESS (Street or PO Box) Include apartment number if applicable. 
 1070 Corkwood St, Hollywood, FL 33019
+
+Note that full addresses are copy-pasted from Google Maps.
 
 CITY
 Hollywood
@@ -165,7 +179,7 @@ ZIP/Postal Code
 
 COUNTRY (if not USA)
 
-2.D. DAYTIME PHONE NUMBER (as described in 1.F. above)
+2.D. DAYTIME PHONE NUMBER (as described in 1.F. above) 
 954-632-0644
 
 2.E. Can this person speak and understand English?
@@ -183,10 +197,10 @@ Please provide us with general medical information to assist us with any records
 
 Bipolar Schizophrenia (more bipolar than schizophrenia)
 Schizoaffective Disorder, Bipolar Type (basically the same as #1, just in different words)
-Weird unexplained recurring neurological symptoms. Unexplained mystery neurological condition. Separate and independent from the bipolar schizophrenia or schizoaffective disorder, bipolar type. Symptoms are different at different points in progression, sort of like Multiple Sclerosis (but it's not Multiple Sclerosis). Does not respond to any psychiatric or neurological drug, and I have tried about 20 different ones on it.
+Weird unexplained recurring neurological symptoms. Unexplained mystery neurological condition. Separate and independent from the bipolar schizophrenia or schizoaffective disorder, bipolar type. Symptoms are different at different points in progression, sort of like Multiple Sclerosis (but it's not Multiple Sclerosis). Does not respond AT ALL to any psychiatric or neurological drug, and I have tried about 20 different ones on it.
 I lack or have a severe deficiency in a form of memory that is used for real-world navigation, rote memorization, and navigating around of body of computer code. In the real world, I get lost very easily. By “I get lost very easily”, I mean I will walk from my apartment to the gym in my building and then get lost trying to get back (after over a year I have managed to get back without getting lost, but my sense of navigation is VERY bad). When I was a university student, I had to drop out of pre-med because I couldn't memorize without logic to help with recollection. My deficit in a form of memory made it basically impossible to actually do the job of a senior software engineer; I needed to be told, for every computer coding task, where the code fix was to be located. I was a “trainee” or “junior developer” for the entirety of my tenure at “Big Tech” (note that “trainee” or “junior developer” pay in Big Tech companies is still above $100,000 a year even though you're just being taught how to do the job without actually doing it independently yet). I say that because a lot of people assume that if the pay is relatively high you are doing some serious work, but I basically was never able to do serious work.
 I cannot safely drive a car despite having taken a driving course. I sort of lack a mental map for how big my vehicle is and where it is situated in 3D space, so I end up hitting the curb or another car when turning right from a side road into a main road. I have been in multiple car accidents, all for the same reason.
-Depending on who you ask, I have either a “neurodivergence” or a “Personality Disorder”. The people who tell me I have a “neurodivergence”, like therapist Maria Karilshtadt-Byk, Psy.D., think I come off as kinda autistic. I might overshare, especially on the public internet, and produce awkward social situations. The people who tell or told me I have a “Personality Disorder”, like a woman I used to go on dates with, say I can be kinda narcissistic (like the Grandiose subtype of Narcissistic Personality Disorder) or that I lack a form of empathy/sympathy/love/care for others and/or for their wants and/or for their internal feelings. They might not like the way I talk to my parents sometimes, thinking it comes off as kinda rude or disrespectful. Either way, I have been described by another person as “like a cross between narcissism and autism” and it interfered with my social functioning, like in a workplace. It also severely interferes/interfered with my dating/love life, but that is another story. I am a 32 year old straight man and I have never had a wife, fiancée, or official girlfriend despite trying for most of my life. Note that a hookup from a dating app like Tinder does not count as an official girlfriend.  
+Depending on who you ask, I have either a “neurodivergence” or a “Personality Disorder”. The people who tell me I have a “neurodivergence”, like therapist Maria Karilshtadt-Byk, Psy.D., think I come off as kinda autistic. I might overshare, especially on the public internet, and produce awkward social situations. The people who tell or told me I have a “Personality Disorder”, like a woman I used to go on dates with, say I can be kinda narcissistic (like the Grandiose subtype of Narcissistic Personality Disorder) or that I lack a form of empathy/sympathy/love/care for others and/or for their wants and/or for their internal feelings. They might not like the way I talk to my parents sometimes, thinking it comes off as kinda rude or disrespectful. Either way, I have been described by another person as “like a cross between narcissism and autism” and it interfered with my social functioning, like in a workplace. It also severely interferes with my dating/love life, but that is another story. I am a 32 year old straight man and I have never had a wife, fiancée, or official girlfriend despite trying for most of my life. Note that a hookup from a dating app like Tinder does not count as an official girlfriend.  
 Note that I have some Parkinsonism or pseudo-Parkinsonism. My muscles are rigid, my reflexes/reaction times are slow, and I walk with one or two canes or with hiking sticks (note: I can walk short distances without a cane or walking sticks). My use of a cane or walking sticks is not caused by any antipsychotic drug. I still have it when I am not on any antipsychotic drug, and it doesn't get noticeably worse when I go on an antipsychotic drug. It is caused by #3, the unexplained mystery neurological condition. I have a very hard time explaining the mystery neurological condition because it doesn't show up on tests or scans like brain MRI, brain EEG, or blood tests. My brain MRI had a slight asymmetry around the hippocampi (perhaps around the area where new brain cells, neurons, are produced) and my blood test had slightly elevated ANA, an autoimmune marker, but I have no hard, positive diagnosis. There is no “smoking gun”, no undeniable hard evidence that can be used to identify the particular neurological condition. 
 I have abnormal sleep patterns, but I also think that is caused or influenced by my unexplained mystery neurological condition from entry #3. Unfortunately, this mystery neurological condition doesn't have a solid diagnosis or a real name, and it doesn't clearly show on any objective test or scan, so it's hard to explain. I call the mystery neurological condition “The Cycling” because the symptoms repeat, or relapse and remit, in a cyclical pattern. Oddly enough, the timing of the relapses and remissions (or between relapses and remissions) is roughly the same even though the symptoms are not the same. That’s why I said before it’s “sort of like Multiple Sclerosis (but it's not Multiple Sclerosis)”. Note that in the past I went to a neuro-immunologist (a type of neurologist responsible for treating Multiple Sclerosis) and mentioned that my mom takes an immune system suppressing drug called “Prednisone”, a corticosteroid, and the neuroimmunologist replied that for me, the long-term effects of corticosteroids would be vastly worse for my health than the mystery neurological condition, so she refused to write me a prescription for an immune system suppressing corticosteroid.
 
@@ -254,6 +268,8 @@ Dr. Buse Sengul
 
 What medical conditions were treated or evaluated?
 
+Mystery neurological condition. See section 3.A. point 3.
+
 PHONE NUMBER
 
 DATE LAST SEEN (IF KNOWN) MM/YYYY
@@ -263,6 +279,7 @@ STREET ADDRESS
 Either one of these two addresses, please double check: 
 1150 N 35th Ave #590, Hollywood, FL 33021
 20801 Biscayne Blvd #201, Aventura, FL 33180 
+
 CITY
 
 STATE/Province
@@ -407,7 +424,7 @@ No.
 
 • Other - please specify: |
 
-Nothing significant within the past 12 months. More than 12 months ago the neuroimmunologist (Dr. Buse Sengul) ordered a spinal tap for me to check for auto-immune encephalitis of the brain, but that came out negative. We still don't have a solid explanation for my mystery neurological condition which I call “The Cycling”. Note that “Functional Neurological Disorder diagnosis via exclusion” is a filler diagnosis based on an absence of hard evidence for most neurological conditions rather than a positive diagnosis for a particular condition. I still don't have a solid, positive diagnosis for my mystery neurological condition that I described in section 3.A.
+Nothing significant within the past 12 months. More than 12 months ago the neuroimmunologist (Dr. Buse Sengul) ordered a spinal tap for me to check for auto-immune encephalitis of the brain, but that came out negative. We still don't have a solid explanation for my mystery neurological condition which I call “The Cycling”. Note that “Functional Neurological Disorder (FND) diagnosis via exclusion” is a filler diagnosis based on an absence of hard evidence for most neurological conditions rather than a positive diagnosis for a particular condition. I still don't have a solid, positive diagnosis for my mystery neurological condition that I described in section 3.A.
 
 3.F. Within the last 12 months, have you taken or are you now taking any prescription or non-prescription medicines? Please put any side-effects you may have in Section 9 - Remarks.
 [ ] NO (Go to 3.G.)
@@ -447,15 +464,15 @@ DEVICE | FREQUENCY OF USE | NAME OF HEALTH CARE PROVIDER, IF PRESCRIBED (IF KNOW
 
 No braces.
 
-[ ] Canes | [ ✅] Sometimes [ ] Always |
+[ ✅] Canes | [ ✅] Sometimes [ ] Always |
 
-Yes, I use one or two canes, or walking sticks (trekking/hiking sticks). I can walk short distances without a cane or walking sticks. Like my apartment is in a downtown area and I can walk to the closest restaurant from my apartment without a cane or walking sticks. On some days I can walk farther without sticks than others. For this reason, my answer to this question is “Sometimes” rather than “Always”.
+Yes, I use one or two canes, or walking sticks (trekking/hiking sticks). I can walk short distances without a cane or walking sticks. Like my apartment is in a downtown area and I can walk to the closest restaurant from my apartment without a cane or walking sticks. On some days I can walk farther without sticks than others. For that reason, my answer to this question is “Sometimes” rather than “Always”.
 
 [ ] Crutches | [ ] Sometimes [ ] Always |
 
 No crutches.
 
-[ ] Eyeglasses | [ ] Sometimes [✅ ] Always |
+[ ✅] Eyeglasses | [ ] Sometimes [✅ ] Always |
 
 Yes, eyeglasses, always. I am basically blind without wearing eyeglasses, so I wear them all the time, even in my apartment.
 
@@ -467,7 +484,7 @@ No hearing aid.
 
 No screen reader.
 
-[ ] Walker | [ ] Sometimes [ ] Always | [✅] Very Rarely
+[✅ ] Walker | [ ] Sometimes [ ] Always | [✅] Very Rarely
 
 I own a walker that I bought off Amazon, but to be honest, I only actually needed it on like two days, ever. Most days the cane(s) or walking sticks are good enough. But yeah, my Parkinsonism or pseudo-Parkinsonism varies in severity, from needing to use a walker on the worst days to being able to go moderate distances without a cane on the best days. If I could give any answer to this question about frequency of walker use, I would pick “Very Rarely”.
 
@@ -475,7 +492,7 @@ I own a walker that I bought off Amazon, but to be honest, I only actually neede
 
 No.
 
-[ ] Other: | [ ] Sometimes [✅ ] Always |
+[✅ ] Other: | [ ] Sometimes [✅ ] Always |
 
 I don't know if this counts as an assistive device, but it is very uncomfortable and sometimes even impossible for me to sit upright in a chair and use a desktop or laptop computer. It's the Parkinsonism or pseudo-Parkinsonism. The vast majority of my electronic device use is on my smartphone, often on my back in bed. I use my smartphone whenever possible, even for things like filling out forms, because of my inability to use a desktop or laptop computer most of the time. I typed all the answers on this document with my smartphone. This sentence was typed with my thumbs on my smartphone. Maybe this is too much information, but sometimes some websites or forms don't work properly on mobile, and that is an accessibility issue for me because most of the time I am only able to use mobile.
 
@@ -661,7 +678,7 @@ Page 10 of 12
 
 7.C. What written language do you use every day in most situations (at home, work, school, in community, etc.)?
 
-English. Note that I live in South Florida where a lot of people speak Spanish, but I never learned how to speak, read, or write in Spanish.
+English. Note that I live in South Florida where a lot of people speak Spanish, but I never learned how to speak, read, or write in Spanish. Many jobs in this area ask for or require Spanish, which again I don't know.
 
 7.D. READING - In the language you identified in 7.C., can you read a simple message, such as a shopping list or short simple notes?
 [✅ ] YES
@@ -708,9 +725,9 @@ Most of the time I use one cane, two canes, or two hiking/trekking sticks. I als
 
 Some elderly people use a cane for balance, like to prevent falls. That's not why I use it. I'm not a 90 year old woman; I will not break a hip if I fall. The reason I use the cane is that, due to my hunch, walking puts a lot of pressure on my lower back, and the cane(s) or walking sticks alleviate that pressure. It makes walking easier and more comfortable for me and it allows me to walk farther than I can otherwise. Like I mentioned in the prior paragraph, I can walk roughly up to a quarter mile nonstop without walking sticks, but with walking sticks that distance goes up to about three quarters of a mile (0.75 miles nonstop).
 
-[ ] Standing
+[✅] Standing
 
-I can stand, although for standing long periods of time I rely on a cane.
+I can stand for short periods of time, like under 15 minutes, although for standing longer periods of time I rely on a cane. I can put some weight on the cane and that helps me remain standing and takes some strain off my back 
 
 [ ✅] Sitting [at a desk or at a desktop computer]
 
@@ -736,13 +753,15 @@ Uhh… If pouring a can of soup or beans from the grocery store into a bowl and 
 
 No. I can put the spoon in the bowl of Campbell's Soup and then put that into my mouth, so I can feed myself.
 
+Note that sometimes physically going to a place that has food, like the nearest grocery store, is a problem for me, but I don't think that's what this question is asking.
+
 [ ?] Shopping
 
 I can shop online from my smartphone, so I don't really think I have an issue shopping. If I need to go to a store that is further away I can ask my mom to drive me or I can use a ridesharing mobile app like Uber or Lyft to get there. Grocery shopping is an issue for me, though. In general Uber and Lyft drivers don't want food or beverages in their cars, and they don't like waiting around for you to put groceries into and out of their trunk, so I often ask my mother to drive me to the grocery store.
 
 [ ?] Lifting objects
 
-I don't really think I have an issue lifting objects, but I don't actually have to lift anything heavy. I used to lift heavy weights (like 250 pound squats, 100 pound chest bench press, 30 pound bicep curls), but I'm much weaker now due to things like the Parkinsonism or pseudo-Parkinsonism. Now I go to the gym and do 10 pound bicep curls, and that feels as difficult for me as the 30 pounds I used to curl. I personally knew female gymnasts who are muscularly stronger than I am now.
+I don't really think I have an issue lifting objects, but I don't actually have to lift anything heavy. I used to lift heavy weights (like 200 pound squats, 100 pound chest bench press, 30 pound bicep curls), but I'm much weaker now due to things like the Parkinsonism or pseudo-Parkinsonism. Now I go to the gym and do 10 pound bicep curls, and that feels as difficult for me as the 30 pounds I used to curl. I am not very strong. I personally knew female gymnasts who are muscularly stronger than I am now.
 
 [ ?] Using arms
 
@@ -756,11 +775,11 @@ Copy paste from section 3.A. point 4:
 
 [ ✅] Doing chores (inside/outside of house)
 
-Fortunately I live in a 600 square foot apartment, so there are no outdoor chores. For indoor chores, I hire a cleaning lady on a somewhat regular basis, like once a month ideally (although in practice I often end up delaying contacting her until the place is really dirty, which it gets at about 2 months without a cleaning). I routinely go to long without doing laundry, and my clothes are all wrinkly because I am too lazy to fold or iron them.
+Fortunately I live in a 600 square foot apartment, so there are no outdoor chores. For indoor chores, I hire a cleaning lady on a somewhat regular basis, like once a month ideally (although in practice I often end up delaying contacting her until the place is really dirty, which it gets at about 2 months without a cleaning). I routinely go too long without doing laundry, and my clothes are all wrinkly because I am too lazy to fold or iron them.
 
 Note that in my year 2024-ish Continuing Disability Review (CDR), I did not check this box. The reason I did not check it is not because I have no issue doing chores myself. I do have issues doing chores myself. The reason I didn't check the box is because I didn't really think I had chores. If you have no chores, then you can't have difficulty doing your chores, right?
 
-But yeah, nowadays with things like professional cleaning ladies and washing machines, there aren't actually a whole lot of chores, unless you live out in the suburbs and own a big house with a yard or something like that.
+But yeah, nowadays with things like professional cleaning ladies and indoor washing machines, there aren't actually a whole lot of chores, unless you live out in the suburbs and own a big house with a yard or something like that.
 
 [ ✅] Driving or using public transportation
 
@@ -776,9 +795,9 @@ It depends on how long and complex the directions are. I can understand short, s
 
 I have no issue managing money. In fact, I manage money better than most people. I have a diversified financial portfolio consisting of a brokerage account (think Fidelity, Charles Schwab, or Vanguard), a 401(k) plan, government bonds, 99.99% pure gold, and a checking account on my name. I do not make rash, short-term investments and I do not spend large sums of money, ever, not even when I was manic.
 
-I have a representative payee (my father), but a representative payee is not necessary. It was NEVER necessary. Even in the past when I was manic, I spent $1,000 on a sound system instead of $100,  or I spent $2,000 on a smartphone instead of $200, but I never was like “I am going to spend myself to bankruptcy”. I was never at risk of financial bankruptcy, even when in the midst of a manic episode in the past.
+I have a representative payee (my father, John Reed Sr.), but a representative payee is not necessary. It was NEVER necessary. Even in the past when I was manic, I spent $1,000 on a sound system instead of $100,  or I spent $2,000 on a smartphone instead of $200, but I never was like “I am going to spend myself to bankruptcy”. I was never at risk of financial bankruptcy, even when in the midst of a manic episode in the past.
 
-With all that said, I would appreciate not having a representative payee or being my own representative payee. My Dad just auto-transfers to me the money that goes into the Social Security Disability account and I allocate how it's spent on my own anyway. I have been living on my own in a 1-bedroom apartment and paying all my own bills since about May of year 2025. I don't even know why I was ever made to have a representative payee in the first place, like when I requested my medical records to my mother and me and I skimmed them, I didn't see any of my doctors saying it was necessary.
+With all that said, I would appreciate not having a representative payee or being my own representative payee. My Dad just auto-transfers to me the money that goes into the Social Security Disability account each month and I allocate how it's spent on my own anyway. I have been living on my own in a 1-bedroom apartment and paying all my own bills since about May of year 2025. I don't even know why I was ever made to have a representative payee in the first place, like when I requested my medical records to my mother and me and I skimmed them, I didn't see any of my doctors saying it was necessary.
 
 [✅ ] Getting along with people
 
@@ -812,9 +831,9 @@ SECTION 9 - REMARKS
 
 Please provide any additional information you did not give in earlier parts of this report, that you think would help us understand your disability and how it affects you. If you did not have enough space in prior sections of this report to provide the requested information, please use this space here to provide the additional information requested in those sections. For example, if you experience any side effects from the medication listed in 3.F., please provide that information in this section. Be sure to note the name of the section (and question number) you are referring to.
 
-I just want to make it abundantly clear that the probability (percentage chance) of me EVER returning to work is absolutely ZERO.
+I just want to make it abundantly clear that the probability (% chance) of me EVER returning to work is absolutely ZERO.
 
-I don't know if I need to explain this, but I will explain it anyway. I was approved under a diagnosis of bipolar schizophrenia, or schizoaffective disorder, bipolar type. That's a permanent condition. Even with medication, it's not the same as if you never had it in the first place. That being said, let's pretend for a second that, hypothetically, one day some magic cure is discovered and this condition is completely 100% cured. Even if that were to happen, I still wouldn't be able to work. Even if that were to happen, I've still got the mystery neurological condition that I mentioned in section 3.A. That mystery neurological condition has significant negative effects on certain cognitive functions and other functions (sleep, Parkinsonism, etc.). That being said, let's pretend for a second that, hypothetically, one day some magic cure is discovered for that as well. Even then, I still wouldn't be able to work. Even then, I still have a severe deficiency in a form of memory that is used for real-world navigation, rote memorization, and navigating around a body of computer code which I also mentioned in section 3.A. I still wouldn't be able to return to and perform my job of being a computer programmer or software engineer. That being said, let's pretend for a second that, hypothetically, one day some magic cure is discovered for this third condition as well. I was approved for SSDI in year 2019. Even if all the magic in the universe happened, I would have to get hired with no recent work history other than being on disability benefits for psychiatric reasons since year 2019. I could apply to be an ice cream scooper at an ice cream place like Häagen-Dazs, but even Häagen-Dazs asks questions on their job applications like “What was your last job and how much did it pay?” When the hiring manager finds out that you were a software engineer at “Big Tech” companies like Amazon, they immediately go “overqualified” and do not hire. I know this because in the past I applied to be an ice cream scooper at Häagen-Dazs and that's basically what happened. Even if I somehow magically were cured of my conditions, absolutely nobody is interested in hiring me. Finally, even if somebody were interested in hiring me (which nobody is), I have no desire or interest in returning to work. 
+I don't know if I need to explain this, but I will explain it anyway. I was approved under a diagnosis of bipolar schizophrenia, or schizoaffective disorder, bipolar type. That's a permanent condition. Even with medication, it's not the same as if you never had it in the first place. That being said, let's pretend for a second that, hypothetically, one day some magic cure is discovered and this condition is completely 100% cured. Even if that were to happen, I still wouldn't be able to work. Even if that were to happen, I've still got the mystery neurological condition that I mentioned in section 3.A. That mystery neurological condition has significant negative effects on certain cognitive functions and other functions (sleep, Parkinsonism, etc.). That being said, let's pretend for a second that, hypothetically, one day some magic cure is discovered for that as well. Even then, I still wouldn't be able to work. Even then, I still have a severe deficiency in a form of memory that is used for real-world navigation, rote memorization, and navigating around a body of computer code which I also mentioned in section 3.A. I still wouldn't be able to return to and perform my job of being a computer programmer or software engineer. That being said, let's pretend for a second that, hypothetically, one day some magic cure is discovered for this third condition as well. I was approved for SSDI in year 2019. Even if all the magic in the universe happened, I would have to get hired with no recent work history other than being on disability benefits for psychiatric reasons since year 2019. I could apply to be an ice cream scooper at an ice cream place like Häagen-Dazs, but even Häagen-Dazs asks questions on their job applications like “What was your last job and how much did it pay?” When the hiring manager finds out that you were a software engineer at “Big Tech” companies like Amazon, they immediately go “overqualified” and do not hire. I know this because in the past I applied to be an ice cream scooper at Häagen-Dazs and that's basically what happened. Even if I somehow magically were cured of my conditions, absolutely nobody is interested in hiring me. Finally, even if somebody were interested in hiring me (which nobody is), I have no desire or interest in returning to work. I will return to work literally never.
 
 
 Form SSA-454-BK (06-2023) UF
