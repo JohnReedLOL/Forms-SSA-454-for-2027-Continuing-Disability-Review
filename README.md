@@ -727,7 +727,7 @@ Some elderly people use a cane for balance, like to prevent falls. That's not wh
 
 [✅] Standing
 
-I can stand for short periods of time, like under 15 minutes, although for standing longer periods of time I rely on a cane. I can put some weight on the cane and that helps me remain standing and takes some strain off my back 
+I can stand for short periods of time, like under 10 minutes, although for standing longer periods of time I rely on a cane. I can put some weight on the cane and that helps me remain standing and takes some strain off my back. 
 
 [ ✅] Sitting [at a desk or at a desktop computer]
 
