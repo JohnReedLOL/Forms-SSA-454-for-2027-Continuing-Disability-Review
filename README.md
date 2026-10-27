@@ -3,17 +3,11 @@ Filled out form SSA-454 for my year 2027-ish Continuing Disability Review for So
 
 _______________________ 
 
-SSA-454 Answers to Questions with Additional Information
+SSA-454 Questions and Answers with Additional Information
 
 Key
 Questions from original form SSA-454 in bold with Cambria font.
 Answers to questions in form SSA-454 not in bold and in Arial font.
-
-Form SSA-454-BK (06-2023) UF
-Discontinue Prior Editions
-Social Security Administration
-Page 1 of 12
-OMB No. 0960-0072
 
 CONTINUING DISABILITY REVIEW REPORT SSA-454-BK
 PLEASE READ THIS INFORMATION BEFORE COMPLETING THIS REPORT
@@ -36,9 +30,6 @@ WHAT YOU NEED TO COMPLETE THIS REPORT
 • ANSWER EVERY QUESTION, unless the report indicates otherwise. If you do not know an answer, or the answer is "none" or "does not apply," please write: "don't know," or "none," or "does not apply."
 • If you need more space to answer any question, please use Section 9 - Remarks. Write the number of the question you are answering.
 
-Form SSA-454-BK (06-2023) UF
-Page 2 of 12
-
 Privacy Act Statement
 Collection and Use of Personal Information
 Sections 205(a), 221(i), 223(d), 1614(a), 1631(e), and 1633(c) of the Social Security Act, as amended, allow us to collect this information. Furnishing us this information is voluntary. However, failing to provide all or part of the information may prevent an accurate and timely decision on any claim filed. We will use the information to determine eligibility for benefits. We may also share your information for the following purposes, called routine uses:
@@ -52,11 +43,6 @@ This information collection meets the requirements of 44 U.S.C. § 3507, as amen
 SEND OR BRING THE COMPLETED REPORT TO YOUR LOCAL FIELD OFFICE, OR THE NEAREST U.S. EMBASSY OR CONSULATE OFFICE. Office addresses are listed under U.S. Government agencies in your telephone directory or you may call 1-800-772-1213 (TTY 1-800-325-0778) for the address.
 AFTER COMPLETING THIS REPORT, REMOVE THIS SHEET AND KEEP IT FOR YOUR RECORDS.
 
-Form SSA-454-BK (06-2023) UF
-Discontinue Prior Editions
-Social Security Administration
-Page 3 of 12
-OMB No. 0960-0072
 
 CONTINUING DISABILITY REVIEW REPORT
 For SSA Use Only - Do not write in this box.
@@ -147,7 +133,7 @@ Also, yes, you may have noticed that I am able to write. The functions of the br
 [✅ ] YES
 [ ] NO
 
-YES, but when I write fast, nobody (including myself) can read my handwriting. In order to write by hand legibly, I have to write very slowly. In year 2024 I received a Form SSA-3373 FUNCTION REPORT - ADULT in the mail and it took me at least two full days (48 hours) to fill out. I know because I remember spending all day trying to fill it out, going to sleep, waking up the next morning, and then spending all of the next day. Also, before you judge me, there are multiple forms of memory, and even though my long-term memory (like of events that happened years ago) is intact, other forms of memory are not so intact.
+YES, but when I write fast, nobody (including myself) can read my handwriting. In order to write by hand legibly, I have to write very slowly. In year 2024 I received a Form SSA-3373 FUNCTION REPORT - ADULT in the mail and it took me at least two full days (48 hours) to fill out legibly. I know because I remember spending all day trying to fill it out, going to sleep, waking up the next morning, and then spending all of the next day. Also, before you judge me, there are multiple forms of memory, and even though my long-term memory (like of events that happened years ago) is intact, other forms of memory are not so intact.
 
 SECTION 2 - SOMEONE WE CAN CONTACT
 
@@ -159,10 +145,7 @@ Anna S. Reed
 
 2.B. Relationship to Person in 1.A.
 
-Mother
-
-Form SSA-454-BK (06-2023) UF
-Page 4 of 12
+Mother 
 
 2.C. MAILING ADDRESS (Street or PO Box) Include apartment number if applicable. 
 
@@ -270,11 +253,8 @@ ZIP/Postal Code
 
 33328
 
-COUNTRY (if not USA)
+COUNTRY (if not USA) 
 
-
-Form SSA-454-BK (06-2023) UF
-Page 5 of 12
 
 2. NAME OF FACILITY OR OFFICE
 
@@ -369,11 +349,7 @@ STATE/Province
 
 ZIP/Postal Code
 
-COUNTRY (if not USA)
-
-
-Form SSA-454-BK (06-2023) UF
-Page 6 of 12
+COUNTRY (if not USA) 
 
 If you need to list more facilities or doctors, use Section 9 - Remarks.
 
@@ -426,7 +402,7 @@ No. I regularly go to an optometrist for an eyeglasses prescription, though. The
 
 • Psychological/IQ test |
 
-No. I saw a neuropsychologist (neuro-psychologist) for testing before, but that was more than 12 months ago. I tried my best on the tests, but the neuropsychologist still noted some cognitive deficits, like in attention/concentration, and also he put in the report that I come off as kinda autistic (maybe not using those exact words, he is not an autism specialist and was not specifically checking for autism). Given the fact that my nickname in high school was “Sheldon” (Sheldon Cooper) from the TV sitcom The Big Bang Theory, and not because I was smart, the “kind of autistic” observation doesn’t surprise me. I have the report from the neuropsychologist and can provide it upon request if you'd like. 
+No. I saw a neuropsychologist (neuro-psychologist) for testing before, but that was more than 12 months ago. I tried my best on the tests, but the neuropsychologist still noted some cognitive deficits, like in attention, and also he put in the report that I come off as kinda autistic (maybe not using those exact words, he is not an autism specialist and was not specifically checking for autism). Given the fact that my nickname in high school was “Sheldon” (Sheldon Cooper) from the TV sitcom The Big Bang Theory, and not because I was smart, the “kind of autistic” observation doesn’t surprise me. I have the report from the neuropsychologist and can provide it upon request if you'd like.
 
 • Biopsy (list body part, if known): |
 
@@ -463,11 +439,7 @@ Fish Oil (Omega-3) supplement - Over the counter drug, NOT prescription - taking
 
 5.
 
-6.
-
-
-Form SSA-454-BK (06-2023) UF
-Page 7 of 12
+6. 
 
 3.G. Do you use an assistive device?
 Note: Even if you do not always use an assistive device at home, if you always use it when outside your home, please select "always."
@@ -547,10 +519,7 @@ None.
 [ ✅] NO (Go to Section 5)
 [ ] YES (Go to Section 10)
 
-No.
-
-Form SSA-454-BK (06-2023) UF
-Page 8 of 12
+No. 
 
 SECTION 5 - SUPPORT SERVICES
 Complete only if you are age 18 years or older
@@ -606,11 +575,7 @@ Please provide the contact information for anyone else or any other organization
 
 6. Within the last 12 months, does anyone else (other than your medical providers) have your medical information or are you scheduled to see anyone else? Examples include places like social services agencies, case workers, welfare agencies, attorneys, prisons, workers' compensation, insurance companies who have paid you disability benefits.
 [ ✅] NO (Go to Section 7)
-[ ] YES (Complete the following section below.)
-
-
-Form SSA-454-BK (06-2023) UF
-Page 9 of 12
+[ ] YES (Complete the following section below.) 
 
 NAME OR ORGANIZATION
 
@@ -690,10 +655,6 @@ TYPE OF PROGRAM
 
 Date Completed (or scheduled to be completed) If date not known, use best estimate: MM YYYY 
 
-
-Form SSA-454-BK (06-2023) UF
-Page 10 of 12
-
 7.C. What written language do you use every day in most situations (at home, work, school, in community, etc.)?
 
 English. Note that I live in South Florida where a lot of people speak Spanish, but I never learned how to speak, read, or write in Spanish. Many jobs in this area ask for or require Spanish, which again I don't know.
@@ -702,7 +663,7 @@ English. Note that I live in South Florida where a lot of people speak Spanish, 
 [✅ ] YES
 [ ] NO
 
-A note about my reading from the Form SSA-455 Answers With Additional Information: 
+A note about my reading from the Form SSA-455 Questions and Answers With Additional Information: 
 
 “Again, it's not that I don't want to go back to university, it's just that I have issues with certain cognitive functions that would result in me failing every class. For example, in order to watch a movie, I have to split the movie into five, six, or seven segments and take hours of concentration break between each segment. The last movie I watched, The Truman Show, took me multiple days to get through. I cannot get through a book that is much longer than a Dr. Seuss book like The Cat in The Hat. I simply would not be able to make it through a university lecture or read a university course textbook for a class.”
 
@@ -747,6 +708,8 @@ Some elderly people use a cane for balance, like to prevent falls. That's not wh
 
 I can stand for short periods of time, like under 10 minutes, although for standing longer periods of time I rely on a cane. I can put some weight on the cane and that helps me remain standing and takes some strain off my back.
 
+Note when I say “I can stand for short periods of time, like under 10 minutes”, I mean I can stand around while sort of shifting my weight and pacing around for like under 10 minutes. If I have to stand perfectly still with both feet planted in one spot, the duration for how long I can stand drops to only a couple of minutes max. It's harder for me to stay firmly in one spot than it is for me to slowly meander around.
+
 [ ✅] Sitting [at a desk or at a desktop computer]
 
 Copy-paste from section 3.G.: 
@@ -755,7 +718,7 @@ Copy-paste from section 3.G.:
 
 [✅ ] Concentrating
 
-Copy-paste from my Form SSA-455 Answers With Additional Information: 
+Copy-paste from my Form SSA-455 Questions and Answers With Additional Information: 
 
 “... it's not that I don't want to go back to university, it's just that I have issues with certain cognitive functions that would result in me failing every class. For example, in order to watch a movie, I have to split the movie into five, six, or seven segments and take hours of concentration break between each segment. The last movie I watched, The Truman Show, took me multiple days to get through. I cannot get through a book that is much longer than a Dr. Seuss book like The Cat in The Hat. I simply would not be able to make it through a university lecture or read a university course textbook for a class.”
 
@@ -807,11 +770,11 @@ YES, I can't safely drive. Copy-paste from section 3.A. point 5:
 
 [? ] Understanding or following directions
 
-It depends on how long and complex the directions are. I can understand short, simple, direct directions, but my attention/concentration and a form of memory aren't good, so in a work setting I had to ask to audio record longer, more complicated instructions. Unfortunately, in the past, in a work setting, my request to record instructions so I could listen to them again was denied, so that was an issue.
+It depends on how long and complex the directions are. I can understand short, simple, direct directions, but my attention/concentration and a form of memory aren't good, so in a work setting I had to ask to audio record longer, more complicated instructions. I had to ask before doing this because in some US states, recording private conversations without receiving consent is illegal. Unfortunately, in the past, in a work setting, my request to record instructions so I could listen to them again was denied, so that was an issue.
 
 [ ] Managing money
 
-I have no issue managing money. In fact, I manage money better than most people. I have a diversified financial portfolio consisting of a brokerage account (think Fidelity, Charles Schwab, or Vanguard), a 401(k) plan, government bonds, 99.99% pure gold, and a checking account on my name. I do not make rash, short-term investments and I do not spend large sums of money, ever, not even when I was manic.
+I have no issue managing money. In fact, I manage money better than most people. I have a diversified financial portfolio consisting of a brokerage account (think Fidelity, Charles Schwab, or Vanguard), a 401(k) plan, government bonds, 99.99% pure gold, and a checking account in my name. I do not make rash, short-term investments and I do not spend large sums of money, ever, not even when I was manic.
 
 I have a representative payee (my father, John Reed Sr.), but a representative payee is not necessary. It was NEVER necessary. Even in the past when I was manic, I spent $1,000 on a set of speakers instead of $100, or I spent $2,000 on a smartphone instead of $200, but I never was like “I am going to spend myself to bankruptcy”. I was never at risk of financial bankruptcy, even when in the midst of a manic episode in the past.
 
@@ -831,7 +794,7 @@ I have a strong eyeglasses prescription. I am VERY nearsighted. I think my eyegl
 
 My hearing is okay. My apartment is by the train tracks and I often sleep during the day, so I use earplugs, but that causes earwax to build up. It's not a big deal, but sometimes I have some muffled hearing from earwax. My listening is much worse than my hearing.
 
-From the Form SSA-455 Answers With Additional Information Section 5: 
+From the Form SSA-455 Questions and Answers With Additional Information Section 5: 
 
 “Talking can be difficult for me at times as I sometimes have to rehearse what I'm going to say or I may not be able to find the words. Like I anticipate questions that other people will ask me and I rehearse answering those questions before talking to them because coming up with spoken words impromptu can be difficult for me. That being said, even with that difficulty, speaking is much, much, much easier for me than listening for an extended period of time. Like I mentioned two paragraphs prior, I have limitations in concentration and attention.”
 
@@ -839,11 +802,7 @@ Please explain anything you marked you need help with or have difficulty doing:
 
 I think I fully explained it underneath each entry.
 
-If you need more space, use Section 9 - Remarks.
-
-
-Form SSA-454-BK (06-2023) UF
-Page 11 of 12
+If you need more space, use Section 9 - Remarks. 
 
 SECTION 9 - REMARKS
 
@@ -853,11 +812,8 @@ I just want to make it abundantly clear that the probability (% chance) of me EV
 
 I don't know if I need to explain this, but I will explain it anyway. I was approved under a diagnosis of bipolar schizophrenia, or schizoaffective disorder, bipolar type. That's a permanent condition. Even with medication, it's not the same as if you never had it in the first place. That being said, let's pretend for a second that, hypothetically, one day some magic cure is discovered and this condition is completely 100% cured. Even if that were to happen, I still wouldn't be able to work. Even if that were to happen, I've still got the mystery neurological condition that I mentioned in section 3.A. That mystery neurological condition has significant negative effects on certain cognitive functions and other functions (sleep, Parkinsonism, etc.). That being said, let's pretend for a second that, hypothetically, one day some magic cure is discovered for that as well. Even then, I still wouldn't be able to work. Even then, I still have a severe deficiency in a form of memory that is used for real-world navigation, rote memorization, and navigating around a body of computer code, which I also mentioned in section 3.A. I still wouldn't be able to return to and perform my job of being a computer programmer or software engineer. That being said, let's pretend for a second that, hypothetically, one day some magic cure is discovered for this third condition as well. 
 
-I was approved for SSDI in year 2019. Even if all the magic in the universe happened, I would have to get hired with no recent work history other than being on disability benefits for psychiatric reasons since year 2019. I could apply to be an ice cream scooper at an ice cream place like Häagen-Dazs, but even Häagen-Dazs asks questions on their job applications like “What was your last job and how much did it pay?” When the hiring manager finds out that you were a software engineer at “Big Tech” companies like Amazon, they immediately go “overqualified” and do not hire. I know this because in the past I applied to be an ice cream scooper at Häagen-Dazs and that's basically what happened. Even if I somehow magically were cured of my conditions, absolutely nobody is interested in hiring me. Finally, even if somebody were interested in hiring me (which nobody is), I have no desire or interest in returning to work. I will return to work literally never.
+I was approved for SSDI in year 2019. Even if all the magic in the universe happened, I would have to get hired with no recent work history other than being on disability benefits for psychiatric reasons since year 2019. I could apply to be an ice cream scooper at an ice cream place like Häagen-Dazs, but even Häagen-Dazs asks questions on their job applications like “What was your last job and how much did it pay?” When the hiring manager finds out that you were a software engineer at “Big Tech” companies like Amazon, they immediately go “overqualified” and do not hire. I know this because in the past I applied to be an ice cream scooper at Häagen-Dazs and that's basically what happened. Even if I somehow magically were cured of my conditions, absolutely nobody is interested in hiring me. Finally, even if somebody were interested in hiring me (which nobody is), I have no desire or interest in returning to work. I will return to work literally never. 
 
-
-Form SSA-454-BK (06-2023) UF
-Page 12 of 12
 
 SECTION 10 - WHO IS COMPLETING THIS REPORT
 
