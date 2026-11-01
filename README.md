@@ -63,7 +63,7 @@ John Michael Reed. It used to appear as “John-Michael Reed” (with a hyphen) 
 
 1.C. In the last 12 months, have you used any other names on your medical or educational records?
 Examples include maiden name, other married names, other names, or nickname.
-[ ] YES
+[  ] YES
 [ ✅] NO
 
 No, in the last 12 months the only name was “John Michael Reed”.
@@ -113,7 +113,7 @@ JohnMichaelReedFAS@Gmail.com
 
 1.H. Can you speak and understand English?
 [ ✅] YES
-[ ] NO
+[  ] NO
 
 YES. Note that sometimes I have trouble coming up with words impromptu in a spoken conversation or listening for more than a few minutes. By “coming up with words impromptu” I mean without rehearsing what I am going to say ahead of time.
 
@@ -123,7 +123,7 @@ If you cannot speak and understand English, we will provide an interpreter free 
 
 1.I. Can you read and understand English?
 [✅ ] YES
-[ ] NO
+[  ] NO
 
 YES, but I struggle to focus and keep my place while reading. Before I was disabled, I read about 60 pages an hour and hundreds of pages in a sitting. After I was disabled, I read about 6–9 pages an hour and less than 20 pages in a sitting. Reading is very hard for me nowadays. 
 
@@ -131,7 +131,7 @@ Also, yes, you may have noticed that I am able to write. The functions of the br
 
 1.J. Can you write more than your name in English?
 [✅ ] YES
-[ ] NO
+[  ] NO
 
 YES, but when I write fast, nobody (including myself) can read my handwriting. In order to write by hand legibly, I have to write very slowly. In year 2024 I received a Form SSA-3373 FUNCTION REPORT - ADULT in the mail and it took me at least two full days (48 hours) to fill out legibly. I know because I remember spending all day trying to fill it out, going to sleep, waking up the next morning, and then spending all of the next day. Also, before you judge me, there are multiple forms of memory, and even though my long-term memory (like of events that happened years ago) is intact, other forms of memory are not so intact.
 
@@ -173,7 +173,7 @@ COUNTRY (if not USA)
 
 2.E. Can this person speak and understand English?
 [ ✅] YES
-[ ] NO
+[  ] NO
 
 YES
 
@@ -212,7 +212,7 @@ When I was able to stand straight upright, my height was 5 feet 10.5 inches tall
 The last time I saw my weight checked, it was about 220 pounds. I gained weight. Some of the weight gain is from the medications I am on, and some of it is not. I mentioned that I have Parkinsonism or pseudo-Parkinsonism caused by the mystery neurological condition. I believe some of the weight gain is from that, like the mystery neurological condition is a contributing factor. The drugs Lithium and Abilify, which I am taking, don't usually cause a person's weight to go from 155 pounds to 220 pounds, at least not on their own.
 
 3.D. Within the last 12 months, have you seen or received treatment from a health care provider (doctor, hospital, clinic, psychiatrists, nurse practitioners, therapists, physical therapists, or other medical professionals)?
-[ ] NO (Go to 3.F.)
+[  ] NO (Go to 3.F.)
 [✅ ] YES (Complete the following section below.) 
 
 YES
@@ -355,7 +355,7 @@ If you need to list more facilities or doctors, use Section 9 - Remarks.
 
 3.E. Within the last 12 months, did any of the providers listed in 3.D. order any medical tests for you?
 (Include tests already performed and those scheduled in the future, and the healthcare provider, or facility, that scheduled them.)
-[ ] NO (Go to 3.F.)
+[  ] NO (Go to 3.F.)
 [ ✅] YES (Complete the following section below.) - If you need more space, use Section 9 - Remarks.
 
 TEST | NAME OF HEALTHCARE PROVIDER OR FACILITY
@@ -421,7 +421,7 @@ No.
 Nothing significant within the past 12 months. More than 12 months ago the neuroimmunologist (Dr. Buse Sengul) ordered a spinal tap for me to check for auto-immune encephalitis of the brain, but that came out negative. We still don't have a solid explanation for my mystery neurological condition which I call “The Cycling”. Note that “Functional Neurological Disorder (FND) diagnosis via exclusion” is a filler diagnosis based on an absence of hard evidence for most neurological conditions rather than a positive diagnosis for a particular condition. I still don't have a solid, positive diagnosis for my mystery neurological condition that I described in section 3.A.
 
 3.F. Within the last 12 months, have you taken or are you now taking any prescription or non-prescription medicines? Please put any side-effects you may have in Section 9 - Remarks.
-[ ] NO (Go to 3.G.)
+[  ] NO (Go to 3.G.)
 [✅ ] YES (Complete the following section below.) - Look at your medicine containers, if necessary.
 If you need more space, use Section 9 - Remarks.
 
@@ -443,52 +443,52 @@ Fish Oil (Omega-3) supplement - Over the counter drug, NOT prescription - taking
 
 3.G. Do you use an assistive device?
 Note: Even if you do not always use an assistive device at home, if you always use it when outside your home, please select "always."
-[ ] NO (Go to Section 3.H.)
+[  ] NO (Go to Section 3.H.)
 [✅ ] YES (Complete the following section below.) If you need more space, use Section 9 - Remarks.
 
 YES
 
 DEVICE | FREQUENCY OF USE | NAME OF HEALTH CARE PROVIDER, IF PRESCRIBED (IF KNOWN)
 
-[ ] Braces | [ ] Sometimes [ ] Always |
+[  ] Braces | [  ] Sometimes [  ] Always |
 
 No braces.
 
-[ ✅] Canes | [ ✅] Sometimes [ ] Always |
+[ ✅] Canes | [ ✅] Sometimes [  ] Always |
 
 Yes, I use one or two canes, or walking sticks (trekking/hiking sticks). I can walk short distances without a cane or walking sticks. Like my apartment is in a downtown area and I can walk to the closest restaurant from my apartment without a cane or walking sticks. On some days I can walk farther without sticks than others. For that reason, my answer to this question is “Sometimes” rather than “Always”.
 
-[ ] Crutches | [ ] Sometimes [ ] Always |
+[  ] Crutches | [  ] Sometimes [  ] Always |
 
 No crutches.
 
-[ ✅] Eyeglasses | [ ] Sometimes [✅ ] Always |
+[ ✅] Eyeglasses | [  ] Sometimes [✅ ] Always |
 
 Yes, eyeglasses, always. I am basically blind without wearing eyeglasses, so I wear them all the time, even in my apartment.
 
-[ ] Hearing aid | [ ] Sometimes [ ] Always |
+[  ] Hearing aid | [  ] Sometimes [  ] Always |
 
 No hearing aid.
 
-[ ] Screen reader | [ ] Sometimes [ ] Always |
+[  ] Screen reader | [  ] Sometimes [  ] Always |
 
 No screen reader.
 
-[✅ ] Walker | [ ] Sometimes [ ] Always | [✅] Very Rarely
+[✅ ] Walker | [  ] Sometimes [  ] Always | [✅] Very Rarely
 
 I own a walker that I bought off Amazon, but to be honest, I only actually needed it on like two days, ever. Most days the cane(s) or walking sticks are good enough. But yeah, my Parkinsonism or pseudo-Parkinsonism varies in severity, from needing to use a walker on the worst days to being able to go moderate distances without a cane on the best days. If I could give any answer to this question about frequency of walker use, I would pick “Very Rarely”.
 
-[ ] Wheelchair | [ ] Sometimes [ ] Always |
+[  ] Wheelchair | [  ] Sometimes [  ] Always |
 
 No.
 
-[✅ ] Other: | [ ] Sometimes [✅ ] Always |
+[✅ ] Other: | [  ] Sometimes [✅ ] Always |
 
 I don't know if this counts as an assistive device, but it is very uncomfortable and sometimes even impossible for me to sit upright in a chair and use a desktop or laptop computer. It's the Parkinsonism or pseudo-Parkinsonism. The vast majority of my electronic device use is on my smartphone, often on my back in bed. I use my smartphone whenever possible, even for things like filling out forms, because of my inability to use a desktop or laptop computer most of the time. I typed all the answers on this document with my smartphone. This sentence was typed with my thumbs on my smartphone. Maybe this is unnecessary information, but sometimes some websites or forms don't work properly on mobile, and that is an accessibility issue for me because most of the time I am only able to use mobile.
 
 3.H. Is the person receiving disability benefits listed in 1.A. under age 14?
 [✅ ] NO (Go to Section 4)
-[ ] YES (Go to Section 10)
+[  ] YES (Go to Section 10)
 
 No.
 
@@ -499,25 +499,25 @@ Please tell us if you have worked since the date of your last medical disability
 
 4.A. Since the date of your last medical disability decision have you worked? (See date on top of Page 3.)
 [ ✅] NO (Go to 4.B.)
-[ ] YES (Complete following section below.)
+[  ] YES (Complete following section below.)
 
 No. I have not worked at any point after I was approved for SSDI, and I do not see myself returning to work at any point in the future.
 
 Are you currently working?
 [ ✅] No
-[ ] Yes
+[  ] Yes
 
 No.
 
 Select all types of work you had since your last medical disability decision:
-[ ] Wages from employer
-[ ] Self-employment
+[  ] Wages from employer
+[  ] Self-employment
 
 None.
 
 4.B. Is the person receiving disability benefits listed in 1.A. under age 18?
 [ ✅] NO (Go to Section 5)
-[ ] YES (Go to Section 10)
+[  ] YES (Go to Section 10)
 
 No. 
 
@@ -532,7 +532,7 @@ Please provide the information about your participation in support services. Exa
 
 5.A. Since the date of your last medical disability decision, have you participated or are you participating in any support services mentioned above or any other vocational rehabilitation, employment services, or other support services to help you return to work? (See date on top of Page 3.)
 [ ✅] NO (Go to Section 6)
-[ ] YES (Complete the following section below.)
+[  ] YES (Complete the following section below.)
 
 No.
 
@@ -553,20 +553,20 @@ ZIP/Postal Code
 COUNTRY (if not USA)
 
 5.B. Are you still participating in the plan or program? (Select answer below. If date not known, use best estimate.)
-[ ] YES - Date began: MM/YYYY | 
+[  ] YES - Date began: MM/YYYY | 
 Expected completion date: MM/YYYY
-[ ] NO - Date began: MM/YYYY | 
+[  ] NO - Date began: MM/YYYY | 
 Date stopped: MM/YYYY
 Reason stopped:
 
 5.C. What types of services, tests, or evaluation were provided?
 Select all that apply:
-[ ] Vision test
-[ ] Hearing test
-[ ] Psychological/IQ test
-[ ] Work evaluation
-[ ] Work classes
-[ ] Other - Please explain:
+[  ] Vision test
+[  ] Hearing test
+[  ] Psychological/IQ test
+[  ] Work evaluation
+[  ] Work classes
+[  ] Other - Please explain:
 
 SECTION 6 - OTHER MEDICAL INFORMATION
 Complete only if you are age 18 years or older
@@ -575,7 +575,7 @@ Please provide the contact information for anyone else or any other organization
 
 6. Within the last 12 months, does anyone else (other than your medical providers) have your medical information or are you scheduled to see anyone else? Examples include places like social services agencies, case workers, welfare agencies, attorneys, prisons, workers' compensation, insurance companies who have paid you disability benefits.
 [ ✅] NO (Go to Section 7)
-[ ] YES (Complete the following section below.) 
+[  ] YES (Complete the following section below.) 
 
 NAME OR ORGANIZATION
 
@@ -612,7 +612,7 @@ Please provide any information about your education, training, and literacy sinc
 
 7.A. Have you received any education since your last disability decision? (See date at the top of Page 3.)
 [ ✅] NO (Go to 7.B.)
-[ ] YES (Complete the following section below.)
+[  ] YES (Complete the following section below.)
 
 NAME OF SCHOOL
 
@@ -635,7 +635,7 @@ Date Completed (or scheduled to be completed) If date not known, use best estima
 
 7.B. Have you received any type of training (specialized job, trade, or vocational training) since your last disability decision? (See date at top of Page 3.)
 [✅ ] NO (Go to 7.C.)
-[ ] YES (Complete the following section below.)
+[  ] YES (Complete the following section below.)
 
 NAME OF TRAINING FACILITY
 
@@ -661,7 +661,7 @@ English. Note that I live in South Florida where a lot of people speak Spanish, 
 
 7.D. READING - In the language you identified in 7.C., can you read a simple message, such as a shopping list or short simple notes?
 [✅ ] YES
-[ ] NO
+[  ] NO
 
 A note about my reading from the Form SSA-455 Questions and Answers With Additional Information: 
 
@@ -669,7 +669,7 @@ A note about my reading from the Form SSA-455 Questions and Answers With Additio
 
 7.E. WRITING - In the language you identified in 7.C., can you write a simple message, such as a shopping list or short simple notes?
 [✅ ] YES
-[ ] NO
+[  ] NO
 
 If you need to list other education information or training facilities use Section 9 - Remarks and provide the same detailed information as above.
 
@@ -680,7 +680,7 @@ Please tell us how your conditions affect your everyday life. This will help us 
 
 8. Do your medical conditions cause you to have difficulties doing any of the following? You should think about the difficulty you experience in performing these tasks alone and without assistance from other people or assistive devices. If other people or assistive devices help you perform a task or perform a task for you because it would be difficult for you to perform the task without the assistance, choose "Yes".
 [ ✅] YES
-[ ] NO
+[  ] NO
 
 YES
 
@@ -722,7 +722,7 @@ Copy-paste from my Form SSA-455 Questions and Answers With Additional Informatio
 
 “... it's not that I don't want to go back to university, it's just that I have issues with certain cognitive functions that would result in me failing every class. For example, in order to watch a movie, I have to split the movie into five, six, or seven segments and take hours of concentration break between each segment. The last movie I watched, The Truman Show, took me multiple days to get through. I cannot get through a book that is much longer than a Dr. Seuss book like The Cat in The Hat. I simply would not be able to make it through a university lecture or read a university course textbook for a class.”
 
-[ ] Taking medicine
+[  ] Taking medicine
 
 No. I take my Extended Release (ER) Lithium Carbonate and my Abilify (generic name Aripiprazole) every day without missing a day. I have been a psych patient for many years, and I never had an issue with treatment compliance, with two exceptions. The first exception is if I am given a drug that does not work. The second exception is if I am given a drug with intolerable side effects. Unfortunately most psychiatric drugs, especially drugs in the class of psychiatric drugs called “antipsychotics”, fall into at least one of those two categories. Fortunately, the drugs Lithium and Abilify are tolerable for me (although one of the two might be functioning as a placebo, but whatever).
 
@@ -730,7 +730,7 @@ No. I take my Extended Release (ER) Lithium Carbonate and my Abilify (generic na
 
 Uhh… If pouring a can of soup or beans from the grocery store into a bowl and then microwaving it counts as “preparing meals”, then I can prepare meals. A bowl of Campbell's Soup counts as a meal, right? I don't actually cook like multi-course cooked meals or fine dining or anything like that, though.
 
-[ ] Feeding self
+[  ] Feeding self
 
 No. I can put the spoon in the bowl of Campbell's Soup and then put that into my mouth, so I can feed myself.
 
@@ -772,7 +772,7 @@ YES, I can't safely drive. Copy-paste from section 3.A. point 5:
 
 It depends on how long and complex the directions are. I can understand short, simple, direct directions, but my attention/concentration and a form of memory aren't good, so in a work setting I had to ask to audio record longer, more complicated instructions. I had to ask before doing this because in some US states, recording private conversations without receiving consent is illegal. Unfortunately, in the past, in a work setting, my request to record instructions so I could listen to them again was denied, so that was an issue.
 
-[ ] Managing money
+[  ] Managing money
 
 I have no issue managing money. In fact, I manage money better than most people. I have a diversified financial portfolio consisting of a brokerage account (think Fidelity, Charles Schwab, or Vanguard), a 401(k) plan, government bonds, 99.99% pure gold, and a checking account in my name. I do not make rash, short-term investments and I do not spend large sums of money, ever, not even when I was manic.
 
@@ -821,8 +821,8 @@ Date Report Completed (month, day, year)
 
 Who is completing this report?
 [ ✅] The person listed in 1.A.
-[ ] The person listed in 2.A.
-[ ] Someone else (Complete the following section below)
+[  ] The person listed in 2.A.
+[  ] Someone else (Complete the following section below)
 
 NAME (First, Middle Initial, Last)
 
